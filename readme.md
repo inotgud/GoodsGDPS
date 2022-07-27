@@ -1,5 +1,7 @@
 # Good's Geometry Dash Private Server
  * Created by : Good#0001
+# How To Install
+ * Check releases
 -----------------------------------------------------------------
 ### What is Geometry Dash
 **Check wiki page**         
